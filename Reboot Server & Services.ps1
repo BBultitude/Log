@@ -1,4 +1,4 @@
-﻿$myinput = 'dvsccmpatch.ad.hd.hastdeer.com.au;bits|dvaubneaostest.sdiad.simedarbyindustrial.com;bits'
+﻿$myinput = 'Server1;Service|Server2;Service'
 
 $logFile = 'C:\temp\logs\temp.log'
 
