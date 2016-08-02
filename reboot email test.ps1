@@ -1,11 +1,11 @@
-﻿$myinput = 'dvsccmpatch.ad.hd.hastdeer.com.au;bits|dvaubneaostest.sdiad.simedarbyindustrial.com;bits|AUL5CB21518BY.ad.hd.hastdeer.com.au;bits'
+﻿$myinput = 'Server1;Service|Server2;Service|Server3;Service'
 
 $logFile = 'C:\temp\logs\temp.log'
 
-$global:EmailTo = "Bryan.Bultitude@hastingsdeering.com.au"
-$global:EmailFrom = "Patching@hastingsdeering.com.au"
+$global:EmailTo = "email@email.com.au"
+$global:EmailFrom = "email@email.com.au"
 $global:EmailSubject = "Server has not come back up after reboot!"
-$global:EmailSMTP = "192.168.231.60"
+$global:EmailSMTP = "smtp server"
 
 
 
